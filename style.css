@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+h3 {
+    color: black;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+.description {
+    text-align: justify;
+    margin: 0 auto;
+    width: 30em;
+}
+
+#steps {
+    text-align: justify;
+    margin: 0 auto;
+    width: 30em;
+}
+#image {
+    text-align: center;
+}
+.background1,
+.background2 {
+    background-color:#0000ff10;
+}
+.ingredients {
+    text-align:justify;
+    margin: 0 auto;
+    width: 30em;
+}
